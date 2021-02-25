@@ -20,6 +20,4 @@ Current Status: IN PROGRESS
 * Recieve lockdown statuses and emergency alerts for your area
 
 ## Screenshots
-
-
-
+![Initial Design](./Screenshots/Initial_Design.png)
