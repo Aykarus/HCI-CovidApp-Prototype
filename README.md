@@ -11,7 +11,7 @@ Current Status: IN PROGRESS
 
 ## Demo
 1. [Ver. 1 Demo](https://www.figma.com/proto/7zhSWpL5QloWA26xfrHxzw/Covid-Tracker-App?node-id=49%3A327&scaling=min-zoom)
-2. Ver. 2 - WIP
+2. Ver. 2 Demo - WIP
 
 ## Functionality
 
