@@ -20,8 +20,8 @@ Current Status: IN PROGRESS
 * Book appointments and tests
 * Recieve latest news
 * View Covid-19 statistics
-* Create or Accpet community requests for Aid
-* Recieve lockdown statuses and emergency alerts for your area
+* Create or accpet community requests for aid
+* Recieve lockdown status and emergency alerts for your area
 
 ## Screenshots
 ![Initial Design](./Screenshots/Initial_Design.png)
