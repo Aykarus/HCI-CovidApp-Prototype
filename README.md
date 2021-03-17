@@ -11,7 +11,7 @@ Current Status: IN PROGRESS
 
 ## Demo
 1. [Ver. 1 Demo](https://www.figma.com/proto/7zhSWpL5QloWA26xfrHxzw/Covid-Tracker-App?node-id=49%3A327&scaling=min-zoom)
-2. Ver. 2 Demo - WIP
+2. [Ver. 2 Demo](https://www.figma.com/proto/eugMTD2Yb67kmQErBw0rdi/Covid-Tracker-App-V2.0?node-id=202%3A543&viewport=411%2C158%2C0.18928709626197815&scaling=scale-down)
 
 ## Functionality
 
@@ -24,4 +24,9 @@ Current Status: IN PROGRESS
 * Recieve lockdown status and emergency alerts for your area
 
 ## Screenshots
+
+### Initial Design
 ![Initial Design](./Screenshots/Initial_Design.png)
+
+### Version 2 Redesign
+![V2 Design](./Screenshots/DesignV2.0.png)
